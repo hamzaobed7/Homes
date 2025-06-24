@@ -1,0 +1,63 @@
+.media {
+  padding: 30px 80px;
+}
+
+.mode {
+  width: 16rem;
+  padding: 1rem;
+  border: 0.8px solid rgba(128, 128, 128, 0.143);
+  border-radius: 5px;
+  gap: 1rem;
+  transition: all 300ms ease-in;
+}
+.mode .button {
+  width: 100%;
+  background: var(--lightBlue);
+  color: var(--blue);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.detail span {
+  margin-left: 10px;
+}
+.mode > :nth-child(1) {
+  width: 100%;
+  gap: 1.6rem;
+}
+.mode .detail .primaryText {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.mode:hover {
+  scale: 1.1;
+  box-shadow: var(--shadow);
+}
+
+.mode .button {
+  text-align: center;
+  height: 30px;
+}
+.mode .button:hover {
+  background: var(--blue-gradient);
+  color: white;
+
+  scale: 0.8;
+}
+.icon {
+  background-color: rgba(217, 190, 219, 0.679);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  color: rgb(15, 32, 186);
+}
+.primaryText {
+  color: #1f3e72;
+}
+.mode{
+    margin-top: 20px;
+}
+.omg{
+    height: 500px;
+    border: none;
+}

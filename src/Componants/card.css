@@ -1,0 +1,16 @@
+#card{
+    border: none;
+}
+#price{
+    font-size: 20px;
+    font-weight: 300;
+color: gray;
+}
+span{
+    color:#ffb978;
+}
+#name{
+    font-weight: 700;
+    font-size: 25px;
+    color: #1f3e72;
+}

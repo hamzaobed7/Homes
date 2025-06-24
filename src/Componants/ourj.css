@@ -1,0 +1,32 @@
+.text h4 {
+  color: #ffb978;
+  font-weight: 600;
+}
+.text h2 {
+  color: #1f3e72;
+
+  font-weight: 600;
+}
+
+.text p {
+  color: gray;
+}
+
+#acro {
+  margin-top: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  color: gray;
+  box-shadow: 10px 10px 10px 10px rgb(0, 0, 0, 0.3);
+}
+#tit.h4 {
+  color: #1f3e72;
+
+  font-weight: 400;
+}
+.accordion-button h4 {
+  color: #1f3e72;
+  text-align: center;
+}
+
+
